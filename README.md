@@ -44,9 +44,3 @@ Pre-requisites
 
 - A machine with .NET SDK installed (recommended latest LTS). Check with `dotnet --version`.
 
-Next steps
-----------
-
-I will create the `modules` and `examples` folders and add detailed module files next.
-
----
